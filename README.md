@@ -1,2 +1,2 @@
 # SI-Estacionamento
-Sistema de informacao para gerenciamento de estacionamento
+*Sistema de informacao para gerenciamento de estacionamento

@@ -1,0 +1,61 @@
+FAQ
+
+Intenção: Reserva de Produto
+Adicionar produto
+Quando eu adiciono um produto ao carrinho, ele fica reservado?
+Tenho uma reserva de produto quando coloco o produto no carrinho?
+Ao adicionar um produto ao carrinho, ele fica reservado?
+Quero saber sobre a reserva do meu produto, pois ele foi adicionado ao meu carrinho.
+O produto adicionado ao carrinho fica reservado?
+O produto do meu carrinho já fica automaticamente reservado?
+O meu celular fica reservado quando o adiciono ao meu carrinho
+
+Resposta: Não. O produto só é reservado após a finalização do pedido.
+
+Intenção: entrega de produto
+Quanto tempo demora para o meu produto ser entregue?
+Quando o produto que eu pedi vai ser entregue?
+Quero saber em quanto tempo o meu produto vai ser entregue?
+Pedi um produto há mais de dois meses e quero saber quando será entregue?
+Quando o tablet vai ser entregue?
+Qual o prazo de entrega para o meu smartwatch?
+O prazo de entrega para celulares é diferente?
+
+
+Teste: quero saber quando o meu produto vai ser entregue, pois já pedi faz tempo e a entrega está demorando muito.
+
+Resposta: Garantimos um prazo de máximo de 30 dias para entrega do seu produto.
+O prazo pode variar de acordo com a sua localização. Veja mais informações de acordo com a sua cidade.
+
+Para São Paulo, garantimos que em até 15 dias úteis você terá o produto em casa.
+Para Rio de Janeiro e Salvador, garantimos que em até 20 dias úteis você terá o produto em casa.
+
+Se estiver em outra localidade, lique para 0800-5052-8149
+
+
+Intenção: comprar produto
+Eu queria ajuda para comprar um celular
+Você pode me ajudar a comprar um celular?
+Me ajude a comprar um tablet?
+Gostaria de comprar um smartwatch, pode me ajudar?
+Qual celular você pode me recomendar?
+Qual o melhor smartwatch para eu utilizar na academia?
+Gostaria de saber qual o melhor tablet para trabalhar com desenho?
+
+
+Dialogo (Comprar produto)
+
+Você pode me ajudar a comprar um celular?
+Legal, vou te ajudar. Irei fazer algumas perguntas para selecionar o melhor produto para você, ok?
+Ok.
+Você  tem preferência por alguma marca de celular?
+Sim, eu prefiro Xiaomi.
+E você tem algum valor máximo para comprar esse produto?
+Sim, posso gastar até R$ 2.000
+Eu tenho um celular da Xiaomi que é até 2.000 reais. Gostaria de adicionar ao carrinho?
+Sim.
+O produto foi adicionado ao seu carrinho.
+Obrigado.
+Posso ajudar com mais alguma coisa?
+
+Eu tenho um celular da marca $marca que é até $currency reais. Gostaria de adicionar ao carrinho?
